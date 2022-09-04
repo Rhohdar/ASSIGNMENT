@@ -1,0 +1,21 @@
+body{
+    background-color: bisque;
+}
+h2{
+   text-align: center;
+   border: 20px;
+   color: grey;
+   box-sizing: border-box;
+}
+.here{
+    font-size: 18px;
+    color: blue;
+}
+a{
+    color: blue;
+    font-size: 18px;
+}
+button{
+    color: blue;
+    font-size: 18px;
+}

@@ -1,0 +1,17 @@
+body{
+    background-color: bisque;
+}
+h2{
+   text-align: center;
+   border: 20px;
+   color: grey;
+   box-sizing: border-box;
+}
+.navbar{
+    color: blue;
+    font-size: 18px;
+}
+a{
+    color: blue;
+    font-size: 18px;
+}
